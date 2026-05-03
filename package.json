@@ -1,0 +1,10 @@
+{
+  "name": "symphony-smoke-test",
+  "version": "1.0.0",
+  "description": "Disposable smoke-test for PRO-25",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  }
+}
